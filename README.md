@@ -3,10 +3,6 @@
 Pune Institute of Computer Technology — Class of 2027  
 📫 gayatrig009@gmail.com · 🏷️ GitHub: @Gayatri-N-Gaikwad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-gaikwad-488087277/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Gayatri_Gaikwad/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-informational?logo=adobeacrobat&logoColor=white)](/Gayatri-Gaikwad_Resume.pdf)
-
 ---
 
 ## About Me
