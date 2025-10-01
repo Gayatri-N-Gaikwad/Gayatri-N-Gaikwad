@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Gayatri N. Gaikwad
+**MERN Stack Developer • B.E. (Information Technology)**  
+Pune Institute of Computer Technology — Class of 2027  
+📫 gayatrig009@gmail.com · 🏷️ GitHub: @Gayatri-N-Gaikwad
 
-<!--
-**Gayatri-N-Gaikwad/Gayatri-N-Gaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-gaikwad-488087277/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Gayatri_Gaikwad/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-informational?logo=adobeacrobat&logoColor=white)](/Gayatri-Gaikwad_Resume.pdf)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Full-stack developer focusing on modern web apps using the **MERN stack**.  
+
+- 🎓 Pursuing B.E. in Information Technology — **PICT, Pune**  
+- 🔭 Currently working on full-stack projects and backend services  
+---
+
+---
+
+## Technical Skills
+- **Languages:** C++, Python, Java (Basics)  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, EJS  
+- **Backend:** Node.js, Express.js, WebSockets  
+- **Databases:** MongoDB, MySQL  
+- **CS Fundamentals:** Object Oriented Programming, Database Management System, Operating System  
+
+
+---
+
+## Selected Projects
+
+### 🎵 Music-link-shortner
+**Stack:** Node.js · Express · MongoDB Atlas · Tailwind CSS  
+A web app that shortens multi-platform music links so artists can share a single link that routes to multiple streaming platforms.  
+- Integrated Spotify & Google APIs to autofill song metadata and artwork.  
+- Built analytics dashboard showing clicks by device & platform.  
+- Admin dashboard for tracking overall performance.  
+**Live:** https://music-link-shortner.onrender.com/  
+
+---
+
+### ✅ TaskZen
+**Stack:** Node.js · Express · MongoDB · Tailwind CSS · WebSockets  
+A virtual workspace for Standard / Scrum / Agile projects with role-based access, task prioritization, automated reminders, and real-time messaging.  
+- Built backend APIs and MongoDB schemas.  
+- Implemented real-time chat and project performance analytics.  
+
+---
+
+## Experience
+
+**Intern, MERN Stack Developer — LSOYS Games and Apps**  
+_Feb 2025 – Apr 2025_  
+- Architected and implemented a music link generation platform using modern JavaScript tooling and cloud-hosted MongoDB.
+- Worked on the full-stack pipeline: API design, DB models, auth, and responsive UI.
+
+---
+
+---
+
+## Contact & Socials
+
+- 📧 gayatrig009@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/gayatri-gaikwad-488087277/  
+- 🐙 GitHub: https://github.com/Gayatri-N-Gaikwad  
+- 🧩 LeetCode: https://leetcode.com/u/Gayatri_Gaikwad/  
+
+---
