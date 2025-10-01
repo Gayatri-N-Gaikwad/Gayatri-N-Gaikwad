@@ -15,7 +15,7 @@ Full-stack developer focusing on modern web apps using the **MERN stack**.
 ---
 
 ## Technical Skills
-- **Languages:** C++, Java (Basics)  
+- **Languages:** C++, Java
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, EJS  
 - **Backend:** Node.js, Express.js, WebSockets  
 - **Databases:** MongoDB, MySQL  
