@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gayatri N. Gaikwad
+# 👋 Hi, I'm Gayatri Nilesh Gaikwad
 **MERN Stack Developer • B.E. (Information Technology)**  
 Pune Institute of Computer Technology — Class of 2027  
 📫 gayatrig009@gmail.com · 🏷️ GitHub: @Gayatri-N-Gaikwad
